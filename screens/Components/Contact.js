@@ -5,13 +5,13 @@ import { Feather, FontAwesome, FontAwesome5, MaterialIcons } from '@expo/vector-
 const ContactScreen = () => {
   // Contact information
   const contactInfo = {
-    phoneNumber: '+91 9330857191',  // Replace with your actual phone number
-    email: 'dhrubojyotichakraborty96@gmail.com', // Replace with your actual email
+    phoneNumber: '+91 9330857191',  
+    email: 'dhrubojyotichakraborty96@gmail.com', 
     socialMedia: {
-      instagram: 'https://www.instagram.com/i_am_dhrubojyoti_chakraborty/',  // Replace with your Instagram profile
-      facebook: 'https://www.facebook.com/dhrubojyoti.chakraborty.14/',    // Replace with your Facebook page
-      whatsapp: 'https://wa.me/9330857191',          // Replace with your WhatsApp number
-      linkedin: 'https://www.linkedin.com/in/dhrubojyoti-chakraborty-567857257/'  // Replace with your LinkedIn profile
+      instagram: 'https://www.instagram.com/i_am_dhrubojyoti_chakraborty/',  
+      facebook: 'https://www.facebook.com/dhrubojyoti.chakraborty.14/',    
+      whatsapp: 'https://wa.me/9330857191',          
+      linkedin: 'https://www.linkedin.com/in/dhrubojyoti-chakraborty-567857257/'  
     }
   };
 
