@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
-const RobotAvatar = require('../../assets/fire robot logo.png'); // Update this path
+const RobotAvatar = require('../../assets/fire robot logo.png'); 
 
 const Chatbot = ({ navigation }) => {
   const [chatStarted, setChatStarted] = useState(false);
