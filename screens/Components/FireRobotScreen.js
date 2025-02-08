@@ -4,7 +4,7 @@ import { View, Text, Image, TouchableOpacity, StyleSheet, Dimensions } from 'rea
 
 const { width, height } = Dimensions.get('window');
 
-export default function FireRobotScreen({ navigation }) { // Accept navigation prop
+export default function FireRobotScreen({ navigation }) { 
   return (
     <View style={styles.container}>
       <View style={styles.imageContainer}>
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     flex: 1,
     width: width,
     height: height,
-    backgroundColor: '#FF1493', // Pink background color
+    backgroundColor: '#FF1493', 
   },
   imageContainer: {
     flex: 0.5,
